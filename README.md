@@ -75,3 +75,14 @@ These fixtures do not cover all Unicode normalization cases, locale-specific cas
 ## 한국어 사용 안내
 
 코드 블록의 예제 줄만 복사해 입력하세요. 동일 줄 반복, 대소문자, 빈 줄, 앞뒤 공백을 각각 따로 비교하고 원래 순서가 유지되는지 확인합니다. 작업 이름이 같더라도 옵션의 의미는 다를 수 있습니다. 실제 업무 자료를 처리하기 전에 원하는 규칙과 예상 결과를 먼저 적고, 원본을 별도로 보관하세요.
+
+
+## Visual walkthrough
+
+![Chatcument logo with a generated text-cleanup illustration](feature-text.png)
+
+Generated illustration using the Chatcument logo; this is not a product screenshot.
+
+![Chatcument text cleanup interface with synthetic example input](service-text.png)
+
+Actual interface captured from a local production build on September 6, 2026, using synthetic text. The hosted release may differ. This screenshot does not establish that every option or large input has been tested.
